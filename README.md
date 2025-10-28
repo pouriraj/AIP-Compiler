@@ -12,8 +12,7 @@
 - **CLI** for batch/automation.
 
 ## Where to get the AIP
-- **Primary:** https://ais.airport.ir/aip-cd
-- **Portal:** https://ais.airport.ir/
+- **Portal:** https://ais.airport.ir/aip-cd
 
 Download the official eAIP package and **extract it**. The root should contain subfolders: **AIP**, **AIC**, **SUP**, **AMDT** (and often `AUTORUN.INF`).
 
