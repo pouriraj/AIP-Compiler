@@ -12,8 +12,7 @@
 - **CLI** for batch/automation.
 
 ## Where to get the AIP
-- **Primary:** https://ais.airport.ir/aip-cd
-- **Portal:** https://ais.airport.ir/
+- **Portal:** https://ais.airport.ir/aip-cd
 
 Download the official eAIP package and **extract it**. The root should contain subfolders: **AIP**, **AIC**, **SUP**, **AMDT** (and often `AUTORUN.INF`).
 
@@ -29,7 +28,7 @@ Download the official eAIP package and **extract it**. The root should contain s
 ### Windows
 ```powershell
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass -Force
-.uild_win.ps1 -Clean
+.Build_win.ps1 -Clean
 .\dist\IranAIPCompiler.exe
 ```
 ### macOS
